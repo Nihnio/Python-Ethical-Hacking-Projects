@@ -1,4 +1,4 @@
-Python Ethical Hacking Projects
+justPython Ethical Hacking Projects
 A collection of Python projects built while learning ethical hacking and cybersecurity. This repository documents my progress through practical, hands-on tools that demonstrate networking, automation, reconnaissance, and security concepts.
 
 «Disclaimer: All projects in this repository are intended strictly for educational purposes. They are designed to help understand how security tools work so that systems can be better protected. Do not use any code in this repository against networks or systems without explicit authorization.»
@@ -37,10 +37,14 @@ If a project has additional requirements, they will be documented inside that pr
 Repository Structure
 Python-Ethical-Hacking-Projects/
 │
-├── Project-1/
-├── Project-2/
-├── Project-3/
-├── requirements.txt
+├── ARP poisoning/                  # ARP spoofing and MITM techniques
+├── ARP scanner/                    # Discover hosts on a local network
+├── MAC Address Spoofing/           # Change a network interface's MAC address
+├── Malware Development/            # Educational malware development concepts
+├── Packet Crafting & Manipulation/ # Create and modify network packets
+├── socket programming/             # Python socket programming examples
+│
+├── keylogs.txt                     # Sample output/log file
 └── README.md
 
 Goals
